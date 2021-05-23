@@ -581,33 +581,33 @@ state_specific: {
       color: "orange",
       type: "circle"
     },
-    // "36": {
-    //   lat: 30.497,
-    //   lng: -87.213,
-    //   description: "<a class=\"#stateExecution\" href=\"map_images/.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"\" src=\"\"/></a>",
-    //   name: "Escambia County, AL",
-    //   color: "orange",
-    //   type: "circle"
-    // },
-    // "37": {
-    //   lat: 37.923,
-    //   lng: -90.555,
-    //   description: "<a class=\"#stateExecution\" href=\"map_images/.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"\" src=\"\"/></a>",
-    //   name: "Bonne Terre, MO",
-    //   color: "orange",
-    //   type: "circle"
-    // },
-    // "40": {
-    //   lat: 39.103,
-    //   lng: -94.583,
-    //   description: "<a class=\"#stateExecution\" href=\"map_images/.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"\" src=\"\"/></a>",
-    //   name: "Kansas City, MO",
-    //   color: "orange",
-    //   type: "circle"
-    // },
-    //   description: "<a class=\"#stateExecution\" href=\"map_images/DustinHonken.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"Dustin Lee Honken\" src=\"\"/></a>",
-    //   description: "<a class=\"#stateExecution\" href=\"map_images/LezmondMitchell.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"Lezmond Charles Mitchell\" src=\"\"/></a>",
-    //   description: "<a class=\"#stateExecution\" href=\"map_images/DanielLee.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"Daniel Lewis Lee\" src=\"\"/></a>",
+    "36": {
+      lat: 30.497,
+      lng: -87.213,
+      description: "<a class=\"#stateExecution\" href=\"map_images/NathanielWoods.png\" data-lightbox=\"#stateExecution\" data-title=\"Nathaniel Woods was executed by lethal injection on March 5, 2020. His lawyers tried to commute his death sentence but were denied clemency after the verdict was given in the state of Alabama.\"/><img class=\"example-image\" alt=\"Nathaniel Woods\" src=\"\"/></a>",
+      name: "Escambia County, AL",
+      color: "orange",
+      type: "circle"
+    },
+    "37": {
+      lat: 37.923,
+      lng: -90.555,
+      description: "<a class=\"#stateExecution\" href=\"map_images/WalterBarton.png\" data-lightbox=\"#stateExecution\" data-title=\"Walter Barton, 64, was executed by lethal injection on May 19, 2020. The U.S. Supreme Court refused to halt the execution of Walter Barton, after the court of appeals for the 8th Circuit lifted the stay on his execution, discounting evidence of his innocence because it was previously available to his defense counsel.\"/><img class=\"example-image\" alt=\"Walter Barton\" src=\"\"/></a>",
+      name: "Bonne Terre, MO",
+      color: "orange",
+      type: "circle"
+    },
+    "40": {
+      lat: 39.103,
+      lng: -94.583,
+      description: "<a class=\"#stateExecution\" href=\"map_images/.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"\" src=\"\"/></a>",
+      name: "Kansas City, MO",
+      color: "orange",
+      type: "circle"
+    },
+      description: "<a class=\"#stateExecution\" href=\"map_images/DustinHonken.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"Dustin Lee Honken\" src=\"\"/></a>",
+      description: "<a class=\"#stateExecution\" href=\"map_images/LezmondMitchell.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"Lezmond Charles Mitchell\" src=\"\"/></a>",
+      description: "<a class=\"#stateExecution\" href=\"map_images/DanielLee.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"Daniel Lewis Lee\" src=\"\"/></a>",
 
     "43": {
       lat: 39.114,
@@ -622,8 +622,8 @@ state_specific: {
       lng: -95.552,
       description: "<a class=\"#stateExecution\" href=\"map_images/ChristopherVialva.png\" data-lightbox=\"#stateExecution\" data-title=\"Christopher Andre Vialva<br/><br/>Vialva was one of 5 facing convictions, and was convicted when he was 19.\"/><img class=\"example-image\" alt=\"Christopher Vialva\" src=\"\"/></a>"
       +"<a class=\"#stateExecution\" href=\"map_images/JohnGardner.png\" data-lightbox=\"#stateExecution\" data-title=\"John Steven Gardner<br/><br/>John Gardner, 64, lawyer's had argued the crime wasn't eligible for the death penalty.\"/><img class=\"example-image\" alt=\"John Gardner\" src=\"\"/></a>"
-      // +"<a class=\"#stateExecution\" href=\"map_images/.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"\" src=\"\"/></a>",
-      ,name: "Huntsville, TX",
+      +"<a class=\"#stateExecution\" href=\"map_images/JoeWardlow.png\" data-lightbox=\"#stateExecution\" data-title=\"Billy Joe Wardlow, 43. The U.S. Supreme Court denied an appeal for Wardlow and he was executed in Huntsville prison via lethal injection.\"/><img class=\"example-image\" alt=\"Billy Wardlow\" src=\"\"/></a>",
+      name: "Huntsville, TX",
       color: "orange",
       type: "circle"
     },
@@ -633,20 +633,13 @@ state_specific: {
       description: "<a class=\"#stateExecution\" href=\"map_images/OrlandoHall.png\" data-lightbox=\"#stateExecution\" data-title=\"Orlando Cordia Hall<br/><br/>Orlando Hall was executed at an Indiana prison, becoming the eighth federal inmate to die in 2020 year.\"/><img class=\"example-image\" alt=\"Orlando Hall\" src=\"\"/></a>"
       +"<a class=\"#stateExecution\" href=\"map_images/BrandonBernard.png\" data-lightbox=\"#stateExecution\" data-title=\"Brandon Bernard<br/><br/>Bernard, 40, was one of five convicted in Texas in 1999. He was the youngest person in the United States to receive a death sentence in nearly 70 years for a crime committed when he was an adolescent.\"/><img class=\"example-image\" alt=\"Brandon Bernard\" src=\"\"/></a>"
       +"<a class=\"#stateExecution\" href=\"map_images/AlfredBourgeois.png\" data-lightbox=\"\" data-title=\"Alfred Bourgeois<br/><br/>Bourgeois's lawyers argued he had an IQ that put him in the intellectually disabled category, saying that should have made him ineligible for the death penalty.\"/><img class=\"example-image\" alt=\"Alfred Bourgeois\" src=\"\"/></a>"
-      +"<a class=\"#stateExecution\" href=\"map_images/WilliamLeCroy.png\" data-lightbox=\"#stateExecution\" data-title=\"William Emmett LeCroy, Jr.<br/><br/>The U.S. government executed the former soldier via lethal injection at the same U.S. prison in Terre Haute, Indiana, where five others have been executed in 2020 following a 17-year period without a federal execution.\"/><img class=\"example-image\" alt=\"William LeCroy\" src=\"\"/></a>",
+      +"<a class=\"#stateExecution\" href=\"map_images/WilliamLeCroy.png\" data-lightbox=\"#stateExecution\" data-title=\"William Emmett LeCroy, Jr.<br/><br/>The U.S. government executed the former soldier via lethal injection at the same U.S. prison in Terre Haute, Indiana, where five others have been executed in 2020 following a 17-year period without a federal execution.\"/><img class=\"example-image\" alt=\"William LeCroy\" src=\"\"/></a>"
+      +"<a class=\"#stateExecution\" href=\"map_images/DanielLee.png\" data-lightbox=\"#stateExecution\" data-title=\"Daniel Lewis Lee, 47.He was the first person executed by the US federal government since 2003. On July 13th, 2020, U.S. district judge blocked the execution, citing a An appeal seeking to delay the execution that involved family of Lee's victims who were concerned about traveling and going to a federal prison during the coronavirus pandemic was also denied by the Supreme Court\"/><img class=\"example-image\" alt=\"Daniel Lee\" src=\"\"/></a>",
       name: "Terre Haute, IN",
       color: "orange",
       type: "circle"
     }
-    // "3": {
-    //   lat: 33.748,
-    //   lng: -84.391,
-    //   color: "black",
-    //   type: "triangle",
-    //   description: "<a class=\"#stateExecution\" href=\"map_images/.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" src=\"\"/></a>"
-    //   ,
-    //   size: 10,
-    // },
+
     // "3": {
     //   lat: 33.748,
     //   lng: -84.391,
