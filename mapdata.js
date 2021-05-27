@@ -72,7 +72,8 @@ var simplemaps_usmap_mapdata={
 state_specific: {
     HI: {
       name: "Hawaii",
-      description: "9 Prisoners have died from COVID"
+      description: "9 Prisoners have died from COVID<br/>Story of Mauna Kea:<br/>Long before the first telescope was ever built, Mauna Kea already had a unique history. The second oldest (and tallest) of the five volcanoes that make-up the Big Island, massive Mauna Kea mountain began as a crack in the ocean surface one million years ago. Volcanic eruptions began oozing lava over the ocean floor along an underwater rift zone, slowly building up the mountain until it finally breached the sea surface about 500,000 years ago. At first, Mauna Kea appeared as a tiny steaming volcanic island, but continuing lava eruptions built the volcano higher and higher until it merged with nearby Kohala Mountain, which is now extinct but was once a fiery volcano several thousand feet taller than it is today. Protect Mauna Kea movement, which is centered around stopping the planned development of a $1.4 billion Thirty Meter Telescope (TMT) on the mountain’s summit, a sacred space in Hawaiian tradition understood to be the piko, or center, of the place where sky and Earth meet.",
+      image_url: "https://specials-images.forbesimg.com/imageserve/514166082/960x0.jpg?fit=scale"
     },
     AK: {
       name: "Alaska",
@@ -208,7 +209,7 @@ state_specific: {
     },
     TX: {
       name: "Texas",
-      description: "269 Prisoners have died from COVID"
+      description: "269 Prisoners have died from COVID<br/>Texas Winterstorm 2021:<br/>\tThe February 13–17, 2021 North American winter storm, unofficially referred to as Winter Storm Uri, was a major winter and ice storm that had widespread impacts across the United States, Northern Mexico, and parts of Canada from February 13 to 17. The storm started out in the Pacific Northwest and quickly moved into the Southern United States, before moving on to the Midwestern and Northeastern United States a couple of days later.<br/>The storm resulted in over 170 million Americans being placed under various winter weather alerts being issued by the National Weather Service in the United States across the country and caused blackouts for over 9.9 million people in the U.S. and Mexico, most notably the 2021 Texas power crisis. The blackouts were the largest in the U.S. since the Northeast blackout of 2003"
     },
     NM: {
       name: "New Mexico",
@@ -264,7 +265,7 @@ state_specific: {
     },
     CA: {
       name: "California",
-      description: "222 Prisoners have died from COVID"
+      description: "222 Prisoners have died from COVID<br/>Story of Orange Skies, California Wildfires: <br/>The 2020 California wildfire season, part of the 2020 Western United States wildfire season, was a record-setting year of wildfires in California. By the end of the year, 9,639 fireshad burned 4,397,809 acres (1,779,730 ha),more than 4% of the state's roughly 100 million acres of land, making 2020 the largest wildfire season recorded in California's modern history (according to the California Department of Forestry and Fire Protection), though roughly equivalent to the pre-1800 levels which averaged around 4.4 million acres yearly and up to 12 million in peak years."
     },
     MI: {
       name: "Michigan",
@@ -600,13 +601,13 @@ state_specific: {
     "40": {
       lat: 39.103,
       lng: -94.583,
-      description: "<a class=\"#stateExecution\" href=\"map_images/.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"\" src=\"\"/></a>",
+      description: "<a class=\"#stateExecution\" href=\"map_images/WesleyPurkey.png\" data-lightbox=\"#stateExecution\" data-title=\"Wesley Ira Purkey<br/><br/> Wesley Ira Purkey, 68, was executed on July, 16,2020, following a federal district judge injunction, arguing evidence of incompetence via multiple mental health conditions. The injunction was vacated by a 5-4 Supreme Court decision, with no explanation for majority’s rationale. He was executed that same day.\"/><img class=\"example-image\" alt=\"\" src=\"\"/></a>",
       name: "Kansas City, MO",
       color: "orange",
       type: "circle"
     },
-      description: "<a class=\"#stateExecution\" href=\"map_images/DustinHonken.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"Dustin Lee Honken\" src=\"\"/></a>",
-      description: "<a class=\"#stateExecution\" href=\"map_images/LezmondMitchell.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"Lezmond Charles Mitchell\" src=\"\"/></a>",
+      description: "<a class=\"#stateExecution\" href=\"map_images/DustinHonken.png\" data-lightbox=\"#stateExecution\" data-title=\"Dustin Lee Honken, 52, Honken execution date was set for July 25, 2019, by United States Attorney General William Barr approved the use of the single drug pentobarbital for federal executions. On November 20, 2019, U.S. District Judge Tanya S. Chutkan issued a preliminary injunction preventing the resumption of federal executions. Honken and the other three plaintiffs in the case argued that the use of pentobarbital may violate the Federal Death Penalty Act of 1994. In April 2020, this was vacated and Honken died of lethal injection July 17, 2020. \"/><img class=\"example-image\" alt=\"Dustin Lee Honken\" src=\"\"/></a>",
+      description: "<a class=\"#stateExecution\" href=\"map_images/LezmondMitchell.png\" data-lightbox=\"#stateExecution\" data-title=\"Lezmond Charles Mitchell <br/><br/> Lezmond Charles Mitchell was executed by lethal injection on August 26, 2020. Mitchell’s execution was the fourth this summer following a 17-year hiatus on executions.\"/><img class=\"example-image\" alt=\"Lezmond Charles Mitchell\" src=\"\"/></a>",
       description: "<a class=\"#stateExecution\" href=\"map_images/DanielLee.png\" data-lightbox=\"#stateExecution\" data-title=\"\"/><img class=\"example-image\" alt=\"Daniel Lewis Lee\" src=\"\"/></a>",
 
     "43": {
