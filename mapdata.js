@@ -73,7 +73,7 @@ state_specific: {
     HI: {
       name: "Hawaii",
       description: "9 Prisoners have died from COVID<br/>Story of Mauna Kea:<br/>Long before the first telescope was ever built, Mauna Kea already had a unique history. The second oldest (and tallest) of the five volcanoes that make-up the Big Island, massive Mauna Kea mountain began as a crack in the ocean surface one million years ago. Volcanic eruptions began oozing lava over the ocean floor along an underwater rift zone, slowly building up the mountain until it finally breached the sea surface about 500,000 years ago. At first, Mauna Kea appeared as a tiny steaming volcanic island, but continuing lava eruptions built the volcano higher and higher until it merged with nearby Kohala Mountain, which is now extinct but was once a fiery volcano several thousand feet taller than it is today. Protect Mauna Kea movement, which is centered around stopping the planned development of a $1.4 billion Thirty Meter Telescope (TMT) on the mountain’s summit, a sacred space in Hawaiian tradition understood to be the piko, or center, of the place where sky and Earth meet.",
-      image_url: "https://specials-images.forbesimg.com/imageserve/514166082/960x0.jpg?fit=scale"
+      image_url: "map_images/maunakea.jpeg"
     },
     AK: {
       name: "Alaska",
@@ -360,7 +360,7 @@ state_specific: {
       description: "<a class=\"PoliceViolence\" href=\"map_images/GeorgeFloyd.png\" data-lightbox=\"PoliceViolence\" data-title=\"George Floyd<br/><br/>George Floyd, 46, died after being arrested by police outside a shop in Minneapolis, Minnesota. He died by asphyxiation. \“The thing I miss most about him is his hugs. He was just this big giant,” said a cousin, Shareeduh Tate.\"/><img class=\"example-image\" src=\"\"/ alt=\"GeorgeFloyd\"></a>"
       +"<a class=\"PoliceViolence\" href=\"map_images/DaunteWright.png\" data-lightbox=\"PoliceViolence\" data-title=\"Daunte Wright, 20 <br><br> Daunte Wright was shot by a Brooklyn Center police officer on during a routine traffic stop during the trial of Derrick Chauvin. Officers pulled over Daunte for a traffic violation and determined he had an outstanding warrant, they then tried to arrest the driver but he \"re-entered the vehicle\" He was killed by a police officer firing after the fleeing vehicle, mistaking her ‘taser’ for her ‘gun'. Daunte \"/><img class=\"example-image\" alt=\"Daunte Wright\" src=\"\"/></a>",
       name: "Minneapolis, MN",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "5": {
@@ -369,7 +369,7 @@ state_specific: {
       description: "<a class=\"PoliceViolence\" href=\"map_images/BreonnaTaylor.png\" data-lightbox=\"PoliceViolence\" data-title=\"Breonna Taylor<br/><br/>Taylor and her boyfriend, Kenneth Walker, were sleeping when three plainclothes officers arrived at their apartment to execute a search warrant in a drug case. They believed it was a breakin and Walker called 911 and fired his licensed firearm. Taylor, who was unarmed, was shot eight times. No charges were brought for Taylor’s shooting and death. Louisville agreed to pay Taylor’s family $12m to settle a wrongful death lawsuit and agreed to a series of police reforms. \"/><img class=\"example-image\" alt=\"Breonna Taylor\" src=\"\"/></a>"
       +"<a class=\"PoliceViolence\" href=\"map_images/DavidMcattee.png\" data-lightbox=\"PoliceViolence\" data-title=\"David Mcatee<br/><br/>The Louisville Metro Police Department and National Guard were working to disperse protests throughout the city when they were dispatched to break up a large crowd at Dino's Food Mart across the street from McAtee's business, according to police, who say the officers were returning fire when McAtee was killed.\"/><img class=\"example-image\" alt=\"David Mcatee\" src=\"\"/></a>",
       name: "Louisville, KY",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "6": {
@@ -378,7 +378,7 @@ state_specific: {
       description: "<a class=\"PoliceViolence\" href=\"map_images/MakhiaBryant.png\" data-lightbox=\"PoliceViolence\" data-title=\"M’ahkia Bryant<br/><br/>M'ahkia Bryant a 16-year-old African-American girl,[1] was fatally shot by police officer Nicholas Reardon in Columbus, Ohio.[2] Body camera and security camera footage released after the shooting shows Bryant brandishing a knife and charging two women consecutively, leading up to the moment Officer Reardon fired four shots; Bryant was struck at least once. Bryant immediately collapsed and was unresponsive.\"She was fun,\" Moore said of her young charge. \"She liked to dance. She did chores around the house.\"\"/><img class=\"example-image\" alt=\"M’ahkia Bryant\" src=\"\"/></a>"
       +"<a class=\"PoliceViolence\" href=\"map_images/CaseyGoodson\" data-lightbox=\"PoliceViolence\" data-title=\"Casey Goodson<br/><br/>Casey Goodson Jr., a 23-year-old Black man, who had no criminal background, according to a family attorney, and was not the target of any investigation.<br/>Goodson's mother says he was shot as he tried entering his home after returning from the dentist and Subway, a quick stop he made to get sandwiches for his 5-year-old brother and 72-year-old grandmother. The two found Goodson lying on the ground, family attorney Sean Walton told CNN.\"My grandson just got shot in the back when he come in the house,\" Goodson's grandmother told a 911 operator.\"/><img class=\"example-image\" alt=\"Casey Goodson\" src=\"\"/></a>",
       name: "Columbus, OH",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "7": {
@@ -386,7 +386,7 @@ state_specific: {
       lng: -87.632,
       description: "<a class=\"PoliceViolence\" href=\"map_images/AdamToledo.png\" data-lightbox=\"PoliceViolence\" data-title=\"Adam Toledo<br/><br/>Adam Toledo, a 13-year-old Latino boy, was shot and killed by Chicago Police Department officer Eric Stillman in the Little Village neighborhood on the West Side of Chicago. A few hours after the shooting, the CPD described the incident in a tweet as an 'armed confrontation'. Body cam video recording was released, appearing to show Toledo dropping a handgun before he turned towards Stillman and raised his empty hands.\"/><img class=\"example-image\" alt=\"Adam Toledo\" src=\"\"/></a>",
       name: "Chicago, IL",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "8": {
@@ -394,7 +394,7 @@ state_specific: {
       lng: -77.616,
       description: "<a class=\"PoliceViolence\" href=\"map_images/DanielPrude.png\" data-lightbox=\"PoliceViolence\" data-title=\"Daniel Prude<br/><br/>Prude, a 41-year-old African-American man, passed away one week after being physically restrained by Rochester, New York police officers. Prude had been suffering from a mental health episode after ingesting PCP and was walking naked in the city's streets. The officers put a spit hood over his head after he began spitting, vomiting, and demanding the officers give him their guns. They restrained him on the street for two minutes and fifteen seconds, and he stopped breathing. Prude received CPR on the scene and later died of complications from asphyxia after being taken off life support.\"/><img class=\"example-image\" alt=\"Daniel Prude\" src=\"\"/></a>",
       name: "Rochester, NY",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "9": {
@@ -402,7 +402,7 @@ state_specific: {
       lng: -104.815,
       description: "<a class=\"PoliceViolence\" href=\"map_images/ElijahMcclane.png\" data-lightbox=\"PoliceViolence\" data-title=\"Elijah McClaine<br/><br/>Elijah McClaine was a 23-year-old Black American massage therapist from Aurora, Colorado, who died after being placed in a chokehold by police and being sedated by paramedics.  McClain was wearing a ski mask and looked 'sketchy', although the caller also indicated that he did not believe anyone was in danger, and that he believed McClain was unarmed. McClain was forcibly held to the ground with his hands cuffed behind his back, after which an officer applied a chokehold and paramedics administered ketamine to McClain to sedate him. While being transported to the hospital McClain went into cardiac arrest. Three days after arriving at the hospital, he was declared brain dead, and was removed from life support\"/><img class=\"example-image\" alt=\"Elijah McClaine\" src=\"\"/></a>",
       name: "Aurora, CO",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "10": {
@@ -410,7 +410,7 @@ state_specific: {
       lng: -84.391,
       description: "<a class=\"PoliceViolence\" href=\"map_images/RayshardBrooks.png\" data-lightbox=\"PoliceViolence\" data-title=\"Rayshard Brooks<br/><br/>Rayshard Brooks, a 27-year-old African American man, was fatally shot by Atlanta Police Department (APD) officer Garrett Rolfe. APD officer Devin Brosnan was responding to a complaint that a man (Brooks) was asleep in a car blocking a Wendy's restaurant drive-through lane. At the scene, Brosnan radioed for assistance, and Rolfe arrived some minutes later. Rolfe conducted a breathalyzer exam which indicated that Brooks's blood-alcohol content was above the legal limit for driving. Rolfe and Brosnan began to handcuff Brooks, and Brooks grabbed Brosnan's taser and attempted to run away. Rolfe pursued Brooks on foot, and Brooks turned and fired the taser toward Rolfe's head. Rolfe then fired his weapon three times at Brooks, hitting him twice from behind. A third shot struck an occupied car. Brooks died after surgery.\"/><img class=\"example-image\" alt=\"Rayshard Brooks\" src=\"\"/></a>",
       name: "Atlanta, GA",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "11": {
@@ -418,7 +418,7 @@ state_specific: {
       lng: -122.159,
       description: "<a class=\"PoliceViolence\" href=\"map_images/StevenTaylor.png\" data-lightbox=\"PoliceViolence\" data-title=\"Steven Taylor<br/><br/>Taylor, a San Leandro High School graduate, was fatally shot by a former officer of the San Leandro Police Department at the Walmart on Hesperian Boulevard on April 18, 2020. Addie Kitchen, Taylor's grandmother said. 'It's not OK. We need mental health services. There should be some way to contact a mental health counselor before the police show up. Especially for people of color. Not just recognition for Steven, but for all people in San Leandro.'\"/><img class=\"example-image\" alt=\"Steven Taylor\" src=\"\"/></a>",
       name: "San Leandro, CA",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "12": {
@@ -426,7 +426,7 @@ state_specific: {
       lng: -85.588,
       description: "<a class=\"PoliceViolence\" href=\"map_images/corneliusfredericks.png\" data-lightbox=\"PoliceViolence\" data-title=\"Cornelius Fredericks<br/><br/>Teenager Cornelius Fredericks died after being restrained for 12 minutes at a Michigan residential treatment facility.Fredericks, 16, went into cardiac arrest after he was tackled and pinned to the ground for throwing a sandwich in the cafeteria. Fredericks passed away on May 1 at Bronson Methodist Hospital after entering cardiac arrest as he was restrained on the ground. \"/><img class=\"example-image\" alt=\"Cornelius Fredericks\" src=\"\"/></a>",
       name: "Kalamazoo, MI",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "13": {
@@ -434,7 +434,7 @@ state_specific: {
       lng: -156.564,
       description: "<a class=\"PoliceViolence\" href=\"map_images/MauriceWagner.png\" data-lightbox=\"PoliceViolence\" data-title=\"Maurice Abisdid-Wagner<br/><br/>Maurice Wagner, died following a taser struggle with Maui police in which he allegedly disarmed an officer of a Taser and proceeded to use the device on three different officers. Police say Maurice Abisdid-Wagner sustained \“superficial wounds” from the struggle. He was transported to the Maui Memorial Medical Center Emergency Room for an evaluation and died several hours later.\"/><img class=\"example-image\" alt=\"Maurice Abisdid-Wagner\" src=\"\"/></a>",
       name: "Maui, HI",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "14": {
@@ -450,7 +450,7 @@ state_specific: {
       lng: -82.923,
       description: "<a class=\"PoliceViolence\" href=\"map_images/PriscillaSlater.png\" data-lightbox=\"PoliceViolence\" data-title=\"Priscilla Slater<br/><br/>Slater, 38, died in the Harper Woods Jail on June 10, 2020,  one day after being arrested on a drug charge. \“It’s very unusual and they’re not giving us a reason why they took her to jail,” they say. Slater’s family says she was arrested Tuesday at the Parkcrest Inn, but police didn’t tell them why. The family says something isn’t right and things aren’t adding up.\“She died unnecessarily,” they say. \“This does not feel good. When you care about a person, you raise them and out of nowhere they’re gone.”\"/><img class=\"example-image\" alt=\"Priscilla Slater\" src=\"\"/></a>",
       name: "Harper Woods, MI",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "16": {
@@ -458,7 +458,7 @@ state_specific: {
       lng: -119.019,
       description: "<a class=\"PoliceViolence\" href=\"map_images/RobertForbes.png\" data-lightbox=\"PoliceViolence\" data-title=\"Robert Forbes<br/><br/>Robert Forbes, 55, was on California Avenue and Oak Street on June 3rd, 2020, when he was struck—an incident.  caught on video and shared widely on social media. According to his family, Forbes was brought to Kern Medical Center, where he remained in critical condition for three days. He died Saturday morning.\"/><img class=\"example-image\" alt=\"Robert Forbes\" src=\"\"/></a>",
       name: "Bakersfield, CA",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "19": {
@@ -466,7 +466,7 @@ state_specific: {
       lng: -81.651,
       description: "<a class=\"PoliceViolence\" href=\"map_images/JulianLewis.png\" data-lightbox=\"PoliceViolence\" data-title=\"Julian Lewis<br/><br/> Julian Lewis went out to get a grape soda for his wife on August 7, his family says, but he never came home. Instead, the 60-year-old Black man was pursued by a Georgia state trooper on a rural road, his car ending up pinned between a tree and the trooper's car. Lewis died after he was shot in the head, his family's attorney, Francys Johnson, told CNN.\"/><img class=\"example-image\" alt=\"Julian Lewis\" src=\"\"/></a>",
       name: "Sylvania, GA",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "20": {
@@ -474,7 +474,7 @@ state_specific: {
       lng: -98.495,
       description: "<a class=\"PoliceViolence\" href=\"map_images/DamianDaniels.png\" data-lightbox=\"PoliceViolence\" data-title=\"Damian Daniels:Damian Daniels was shot and killed by police during a mental health crisis. Bexar County Sheriff Javier Salazar said when deputies arrived, it was apparent that Daniels was despondent, and he was reportedly suicidal after several deaths in the family. He said that deputies spent 30 minutes speaking to him and attempting to bond with him, and when deputies moved close to him, he grabbed a deputy's taser before another deputy used their taser, but it had no effect. After he grabbed the taser, a struggle ensued for about a minute and deputies shot him twice. Daniels died at the scene.\"/><img class=\"example-image\" alt=\"Damian Daniels\" src=\"\"/></a>",
       name: "San Antonio, TX",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "21": {
@@ -482,7 +482,7 @@ state_specific: {
       lng: -117.79,
       description: "<a class=\"PoliceViolence\" href=\"map_images/KurtReinhold.png\" data-lightbox=\"PoliceViolence\" data-title=\"Kurt Reinhold<br/><br/>The incident took place on September 23, 2020, two deputies, since identified as Eduardo Duran and Jonathan Israel, found Kurt Andras Reinhold, 42, crossing a street in San Clemente, California. They were in their cruiser, which they then parked. They confronted Reinhold, attempting to detain him for jaywalking. Reinhold was uncooperative and refused to follow orders from the deputy. This escalated into a fight as one of the deputies tried to stop Reinhold from walking away. At one point, one deputy started screaming 'he's got my gun' over and over again, and the other deputy drew his gun and shot Reinhold. He died on the scene.\"/><img class=\"example-image\" alt=\"Kurt Reinhold\" src=\"\"/></a>",
       name: "Orange County, CA",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "22": {
@@ -490,7 +490,7 @@ state_specific: {
       lng: -96.07,
       description: "<a class=\"PoliceViolence\" href=\"map_images/JonathanPrice.png\" data-lightbox=\"PoliceViolence\" data-title=\"Jonathan Price<br/><br/>The family of Jonathan Price says he was fatally shot while he was breaking up a fight. He was at an Exxon gas station, when he saw a confrontation between a man and woman. He then tried to break it up, and an officer pulled up. A Taser was deployed, and then the officer fired shots. Price was reportedly shot multiple times, and died from his injuries.\"/><img class=\"example-image\" alt=\"Jonathan Price\" src=\"\"/></a>",
       name: "Wolfe City, TX",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "23": {
@@ -506,7 +506,7 @@ state_specific: {
       lng: -97.521,
       description: "<a class=\"PoliceViolence\" href=\"map_images/BennieEdwards.png\" data-lightbox=\"PoliceViolence\" data-title=\"Bennie Edwards<br/><br/>Officers shot and killed Bennie Edwards outside a north Oklahoma City business. A witness in a nearby vehicle posted a video of the shooting on social media, showing Edwards running between officers and flailing before being shot dead. Folks remember that Edwards was frequently seen riding his bicycle and selling flowers. Court records show Edwards had a long history of mental illness, was admitted to the state mental hospital and was treated with psychotropic medication.\"/><img class=\"example-image\" alt=\"Bennie Edwards\" src=\"\"/></a>",
       name: "Oklahoma City, OK",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "26": {
@@ -514,7 +514,7 @@ state_specific: {
       lng: -97.727,
       description: "<a class=\"PoliceViolence\" href=\"map_images/PatrickWarren.png\" data-lightbox=\"PoliceViolence\" data-title=\"Patrick Warren<br/><br/>Officer Reynaldo Contreras arrived at the home of Patrick Warren on January 10 after Warren's family called for psychiatric help. Body camera footage shows the tense moments that led to Contreras firing his weapon at Warren three times. Warren, who was 52, was transported to a hospital and succumbed to his injures.\"/><img class=\"example-image\" alt=\"Patrick Warren\" src=\"\"/></a>",
       name: "Killeen, TX",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "27": {
@@ -522,7 +522,7 @@ state_specific: {
       lng: -90.049,
       description: "<a class=\"PoliceViolence\" href=\"map_images/RobertHoward.png\" data-lightbox=\"PoliceViolence\" data-title=\"Robert Howard<br/><br/>Police received a call from a woman reporting that her boyfriend was missing. Investigators say the woman used an app to track Howard’s cell phone near Lamar and Shelby Drive. They say she found the phone, but not Howard. <br/>Police said their investigation led them to determine Ferguson, who they say was on duty and armed with his own handgun, encountered Howard outside a home on Mark Twain Street and forced him into the back of his squad car. Police say Ferguson then drove to the area of Frayser Blvd. and Denver Street, where they say he shot and killed Howard. An affidavit says Ferguson shot Howard in the back of the car before moving the body to another location temporarily.\"/><img class=\"example-image\" alt=\"Robert Howard\" src=\"\"/></a>",
       name: "Memphis, TN",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "28": {
@@ -530,7 +530,7 @@ state_specific: {
       lng: -122.482,
       description: "<a class=\"PoliceViolence\" href=\"map_images/JenoahDonald.png\" data-lightbox=\"PoliceViolence\" data-title=\"Jenoah Donald<br/><br/>Jenoah Donald, a 30-year-old Black man from Vancouver, was shot after being pulled over for a broken tail light. He died after a week of being on life support. \"/><img class=\"example-image\" alt=\"Jenoah Donald\" src=\"\"/></a>",
       name: "Clark County, WA",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "29": {
@@ -538,7 +538,7 @@ state_specific: {
       lng: -96.835,
       description: "<a class=\"PoliceViolence\" href=\"map_images/MarvinScott.png\" data-lightbox=\"PoliceViolence\" data-title=\"Marvin Scott III<br/><br/>Scott died after being detained by officers who tried to restrain him using actions Scott's family says were 'inappropriate' given that he had schizophrenia and was suffering from a mental crisis. He was arrested for possession of less than two ounces, which is a misdemeanor.Scott was first taken to a hospital where he remained in an emergency room for about three hours, the department said. He was released and taken to the Collin County Jail.Once booked, the sheriff said he started showing strange behavior. He said detention officers tried to secure him to a bed and used pepper spray and a spit mask in the process. At some point, he became unresponsive and was taken to a hospital where he was pronounced dead.\"/><img class=\"example-image\" alt=\"Marvin Scott\" src=\"\"/></a>",
       name: "Frisco, TX",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "30": {
@@ -547,7 +547,7 @@ state_specific: {
       description: "<a class=\"PoliceViolence\" href=\"map_images/DominiqueWilliams.png\" data-lightbox=\"PoliceViolence\" data-title=\"Dominique Williams<br/><br/>Takoma Park police responded to reports of shots fired in the parking lot area of the Takoma Overlook Condominiums, according to a department news release. An off-duty Pentagon Force Protection Agency officer approached the Takoma Park police and said he had seen what he thought was a car break-in and 'engaged the suspects who failed to follow his direction,'  Takoma Park Chief of Police Antonio DeVaul said Dixon's description of what happened didn't stack up and that 'Mr. Dixon had no lawful or justifiable reason to shoot and kill Mr. Williams and Mr. Johnson.'\"/><img class=\"example-image\" alt=\"Dominique Williams\" src=\"\"/></a>"
       +"<a class=\"PoliceViolence\" href=\"map_images/JamesJohnson.png\" data-lightbox=\"PoliceViolence\" data-title=\"James Lionel Johnson<br/><br/>Takoma Park police responded to reports of shots fired in the parking lot area of the Takoma Overlook Condominiums, according to a department news release. An off-duty Pentagon Force Protection Agency officer approached the Takoma Park police and said he had seen what he thought was a car break-in and 'engaged the suspects who failed to follow his direction,'  Takoma Park Chief of Police Antonio DeVaul said Dixon's description of what happened didn't stack up and that 'Mr. Dixon had no lawful or justifiable reason to shoot and kill Mr. Williams and Mr. Johnson.'\"/><img class=\"example-image\" alt=\"James Lionel Johnson\" src=\"\"/></a>"
       ,name: "Takoma Park, MD",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "31": {
@@ -555,7 +555,7 @@ state_specific: {
       lng: -84.106,
       description: "<a class=\"PoliceViolence\" href=\"map_images/MatthewWilliams.png\" data-lightbox=\"PoliceViolence\" data-title=\"Matthew Zadok Williams<br/><br/>Matthew Zadok Williams, the 35-year-old man who was shot and killed by a DeKalb Police officer at his home. He is remembered as a self-made success who, despite being the youngest of six siblings, became a family pillar his mother and five sisters leaned on. 'I think about all the good times I had - 35 years of good days with my brother, not one bad,' his sister Kaya Williams said. 'I'm going to challenge myself and reflect on 35 years of great times with my brother, until April 12 when they took him from us. But they cant take the memory of his spirit from us. It lives on, they can never take that from us.'\"/><img class=\"example-image\" alt=\"Matthew Zadok Williams\" src=\"\"/></a>",
       name: "",
-      color: "Blue",
+      color: "#0000FF",
       type: "diamond"
     },
     "33": {
@@ -998,7 +998,7 @@ state_specific: {
     },
     {
       name: "#PoliceViolence",
-      color: "Blue",
+      color: "#0000FF",
       type: "location",
       shape: "diamond",
       ids: ""
@@ -1055,7 +1055,7 @@ state_specific: {
     },
     {
       name: "#ICE/Immigration",
-      color: "lightblue",
+      color: "light#0000FF",
       type: "location",
       shape: "diamond",
       ids: ""
